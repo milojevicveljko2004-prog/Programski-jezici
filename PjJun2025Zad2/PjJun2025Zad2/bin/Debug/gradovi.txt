@@ -1,0 +1,4 @@
+Naziv: Nis, Dimenzije: 5, PARCELE: 
+1 500 Bulevar Oslobodjenja 12 02.11.2025. 22:06:15 2 8 True
+2 200 Trg Republike 1 18.10.2025. 22:06:15 Zgrada 10 True
+3 150 Kralja Petra 5 13.09.2025. 22:06:15 Kuca 1 False
