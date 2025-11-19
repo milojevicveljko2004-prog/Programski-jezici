@@ -1,5 +1,3 @@
-Programski jezici
-
 Reseni zadaci sa blanketa i cs-a iz predmeta Programski jezici.
 
 Na pisanom delu ispita sam dobio 58 poena od 60, tako da bi trebalo da su zadaci tacni (ali mozda ne svi, proveriti za svaki slucaj).
