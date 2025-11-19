@@ -1,0 +1,8 @@
+Max broj fudbalera: 11, Norma: 15, FUDBALERI: 
+Ilija Ilic True 10
+Branko Brankovic False 9
+Novak Novakovic 420 10
+Stefan Stefanovic 370 4
+Ivan Ilic 300 4
+Nikola Nikolic 400 6
+Marko Markovic 370 7

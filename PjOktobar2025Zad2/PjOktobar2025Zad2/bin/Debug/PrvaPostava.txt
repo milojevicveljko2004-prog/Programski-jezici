@@ -1,0 +1,5 @@
+Max broj fudbalera: 25, Norma: 15, FUDBALERI: 
+Pera Peric 390 14
+Laza Lazic 450 15
+Milos Milosevic 500 12
+Uros Urosevic True 40
