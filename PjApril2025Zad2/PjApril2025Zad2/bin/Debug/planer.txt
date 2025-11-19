@@ -1,0 +1,7 @@
+﻿Marko Markovic 10000
+Ispit 10 9 13 5 true
+Vezba 9 14 16 10 false
+RazgovorZaPosao 6 8 12 20 false
+IzbaciDjubre 10 11 12 Pesice
+NapuniGorivo 30 40 50 Auto
+KupiHleb 30 2 5 Bicikl
