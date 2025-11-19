@@ -1,7 +1,0 @@
-﻿USD 10000
-Mleko 456 Prodavnica 50 12
-Jogurt 779 Magacin 45 9
-Hleb 555 NarucenOdProizvodjaca 12 3
-Paketic 445 Prodavnica 89 7
-Ves_masina 799 Magacin 88 8
-Sporet 123 NarucenOdProizvodjaca 99 10
