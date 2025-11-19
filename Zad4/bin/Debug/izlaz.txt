@@ -1,0 +1,5 @@
+USD 10000
+Mleko 456 Prodavnica 500 12
+Jogurt 779 Magacin 450 90
+Paketic 445 Prodavnica 890 70
+Ves_masina 799 Magacin 880 89
